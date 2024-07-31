@@ -47,3 +47,9 @@ git commit -m "add-symlink"
 cd ..
 
 git clone --recursive captain hooked
+
+
+
+
+===
+copy "C:\Program Files\Gitea\data\gitea.db" ".\gitea.db"
